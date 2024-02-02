@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A Programmer, Developer</h3>
 
-- 🔭 I’m currently working on **Car Rental Web Application**
+- 🔭 I’m currently working on **Vehicle Rental Web Application**
 
-- 🌱 I’m currently learning **React, MongoDB**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SlightlyCodic?tab=repositories](https://github.com/SlightlyCodic?tab=repositories)
 
