@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A Programmer, Developer</h3>
 
-- 🔭 I’m currently working on **Vehicle Rental Web Application**
+- 🔭 I’m currently working on **Computer Vision Projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SlightlyCodic?tab=repositories](https://github.com/SlightlyCodic?tab=repositories)
 
-- 📝 I regularly write articles on [https://personalwebsite-7p65.onrender.com/](https://personalwebsite-7p65.onrender.com/)
-
-- 💬 Ask me about **Python**
+- 💬 Ask me about **New Ideas**
 
 - 📫 How to reach me **chiragj831@gmail.com**
 
